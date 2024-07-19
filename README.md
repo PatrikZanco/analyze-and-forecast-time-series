@@ -1,5 +1,6 @@
-##Descrição do Projeto
-Inicialmente, são implementadas técnicas de limpeza e tratamento de dados, garantindo a qualidade e a consistência das informações utilizadas. A exploração das variáveis é realizada por meio de gráficos, permitindo a obtenção de insights relevantes que orientam a análise subsequente.
+#Descrição do Projeto
+
+Implementadas técnicas de limpeza e tratamento de dados, garantindo a qualidade e a consistência das informações utilizadas. A exploração das variáveis é realizada por meio de gráficos, permitindo a obtenção de insights relevantes que orientam a análise subsequente.
 
 A formulação de hipóteses estatísticas pertinentes é seguida por testes de validade utilizando métodos apropriados, assegurando a relevância dos achados. A análise de séries temporais é conduzida para identificar padrões e tendências significativas ao longo do tempo, proporcionando uma base sólida para a modelagem preditiva.
 
